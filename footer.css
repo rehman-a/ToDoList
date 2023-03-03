@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(250, 232, 232);
+}
+.borders{
+    
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    padding: 10px;
+  }
